@@ -1,0 +1,14 @@
+:root {
+  --bg-color: #212121;
+  --soft-bg-color: #333232;
+  --light-bg-color: #45474d;
+  --red-color: #eb3434;
+  --blue-color: #3477eb;
+
+  background-color: var(--bg-color);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
